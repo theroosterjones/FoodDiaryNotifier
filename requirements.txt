@@ -1,0 +1,5 @@
+requests==2.31.0  # For making HTTP requests
+python-dotenv==1.0.0  # For environment variables
+pushover.py==0.4  # For iPhone notifications
+schedule==1.2.1  # For scheduling tasks
+beautifulsoup4==4.12.2  # For parsing HTML content 
